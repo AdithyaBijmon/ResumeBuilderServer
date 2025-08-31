@@ -753,6 +753,37 @@
         "REACT"
       ],
       "summary": "adfs"
+    },
+    {
+      "personalDetails": {
+        "name": "luna jacob",
+        "jobTitle": "devOps",
+        "location": "kottayam",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "education": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skills": [
+        "MONGODB",
+        "EXPRESS",
+        "REACT"
+      ],
+      "summary": "aljlakj",
+      "id": "C3I2Ops"
     }
   ],
   "history": [
